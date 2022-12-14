@@ -23,7 +23,7 @@ do
 		downloaded=$((downloaded+1))
 		echo "Downloaded $downloaded of $tag_count Images..."
 		rm $url.html
-		rm pagecache.html
 	done
 done
+rm pagecache.html
 rm cache.html
