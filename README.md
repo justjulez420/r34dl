@@ -6,6 +6,6 @@ simply execute the script followed by the tag you want to download.
 
 for example, running: 
 
-./r34dl.sh megumin
+./r34dl.sh big_breasts
 
-will download all images that are tagged with 'megumin'.
+will download all images that are tagged with 'big_breasts'.
