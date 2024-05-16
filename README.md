@@ -1,7 +1,3 @@
-# !!!IMPORTANT!!!
-## This project (along with everything else on my profile) has moved over to gitlab! 
-## Any future updates will be pushed to https://gitlab.com/justjulez420/r34dl
-
 # r34dl
 A simple bash script to download entire tags from rule34.xxx
 
